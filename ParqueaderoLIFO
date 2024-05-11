@@ -1,6 +1,7 @@
 #include <iostream>
 #include <malloc.h>
 using namespace std;
+//Cristian David Garcia Valderrama y Brandon Jhorshuan
 
 struct Vehiculo
 {
